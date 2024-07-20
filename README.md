@@ -3,8 +3,8 @@
 ### list
 
 ## items_list
-- **cookie mix**
+- **cookie_mix**
 - chocolate
-- *chip*
+- *chips*
 
 ![Recipe Image](recipe.jpg)
