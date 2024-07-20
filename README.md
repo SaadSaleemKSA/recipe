@@ -7,4 +7,4 @@
 - chocolate
 - *chips*
 
-![Recipe Image](recipe.jpg)
+![Recipe_Image](recipe.jpg)
